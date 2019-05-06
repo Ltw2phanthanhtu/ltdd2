@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3f51b5</color>
+    <color name="colorPrimaryDark">#0a2f48</color>
+    <color name="colorAccent">#ff4081</color>
+    <color name="colorPrimary_phototrip">#f50057</color>
+    <color name="colorPrimaryDark_phototrip">#F50057</color>
+    <color name="colorAccent_phototrip">#fb5990</color>
+    <color name="viewBg">#f1f5f8</color>
+    <color name="album_title_phototrip">#4c4c4c</color>
+    <color name="colorTitleDark">#00779f</color>
+    <color name="colorTitle">#00bfff</color>
+    <color name="colorAccent_phototrip_dark">#cd205b</color>
+
+    <color name="color_header_is_expand">#a9fdf6</color>
+    <color name="color_text_header_is_expand">#f1030f</color>
+    <color name="color_ripple_effect">#ee94ef</color>
+    <color name="color_default_text">#000</color>
+    <color name="color_background_white">#fff</color>
+    <color name="color_text_appname">#e27304</color>
+
+
+
+    <!--Jelly toolbar-->
+    <color name="colorStart">#cb5ed9</color>
+    <color name="colorEnd">#8463d4</color>
+    <color name="colorBackgroundToolBar">#ad06ef</color>
+    <color name="pink">#f176f1</color>
+    <color name="colorTransparent1">#00ffffff</color>
+
+</resources>

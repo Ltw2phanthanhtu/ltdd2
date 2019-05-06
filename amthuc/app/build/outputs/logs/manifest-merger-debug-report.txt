@@ -1,0 +1,235 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\ASUS\AndroidStudioProjects\amthuc\app\src\main\AndroidManifest.xml:2:1-66:12
+	package
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\amthuc\app\src\main\AndroidManifest.xml:3:5-38
+		INJECTED from C:\Users\ASUS\AndroidStudioProjects\amthuc\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ASUS\AndroidStudioProjects\amthuc\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\ASUS\AndroidStudioProjects\amthuc\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ASUS\AndroidStudioProjects\amthuc\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\amthuc\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\ASUS\AndroidStudioProjects\amthuc\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ASUS\AndroidStudioProjects\amthuc\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.GET_ACCOUNTS
+ADDED from C:\Users\ASUS\AndroidStudioProjects\amthuc\app\src\main\AndroidManifest.xml:6:5-71
+	android:name
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\amthuc\app\src\main\AndroidManifest.xml:6:22-68
+uses-permission#android.permission.READ_PROFILE
+ADDED from C:\Users\ASUS\AndroidStudioProjects\amthuc\app\src\main\AndroidManifest.xml:7:5-71
+	android:name
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\amthuc\app\src\main\AndroidManifest.xml:7:22-68
+uses-permission#android.permission.READ_CONTACTS
+ADDED from C:\Users\ASUS\AndroidStudioProjects\amthuc\app\src\main\AndroidManifest.xml:8:5-72
+	android:name
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\amthuc\app\src\main\AndroidManifest.xml:8:22-69
+uses-permission#android.permission.LOCATION_HARDWARE
+ADDED from C:\Users\ASUS\AndroidStudioProjects\amthuc\app\src\main\AndroidManifest.xml:9:5-76
+	android:name
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\amthuc\app\src\main\AndroidManifest.xml:9:22-73
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\ASUS\AndroidStudioProjects\amthuc\app\src\main\AndroidManifest.xml:10:5-67
+MERGED from [com.daimajia.slider:library:1.1.5] C:\Users\ASUS\.android\build-cache\1ac963053589fda2872cddb77760b8c4bdbfb2cc\output\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\amthuc\app\src\main\AndroidManifest.xml:10:22-64
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\ASUS\AndroidStudioProjects\amthuc\app\src\main\AndroidManifest.xml:11:5-80
+	android:name
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\amthuc\app\src\main\AndroidManifest.xml:11:22-77
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\ASUS\AndroidStudioProjects\amthuc\app\src\main\AndroidManifest.xml:12:5-81
+MERGED from [com.daimajia.slider:library:1.1.5] C:\Users\ASUS\.android\build-cache\1ac963053589fda2872cddb77760b8c4bdbfb2cc\output\AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\amthuc\app\src\main\AndroidManifest.xml:12:22-78
+application
+ADDED from C:\Users\ASUS\AndroidStudioProjects\amthuc\app\src\main\AndroidManifest.xml:14:5-64:19
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ASUS\.android\build-cache\8ad29461978a171e94c5f864ecac741f6dad0f10\output\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:design:25.3.1] C:\Users\ASUS\.android\build-cache\2a0643084bca73f028302fd6d154d0d1b40f5191\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:transition:25.3.1] C:\Users\ASUS\.android\build-cache\c70e2403ac250363e9a03cbcd3c77d656780281e\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\ASUS\.android\build-cache\45b1412f58f7cc434d60f9bbe7c72dbd6c6b37b7\output\AndroidManifest.xml:26:5-20
+MERGED from [com.facebook.android:facebook-android-sdk:4.0.0] C:\Users\ASUS\.android\build-cache\8fc33ddba6e0a041d114a74afcd99dfdb21ddce1\output\AndroidManifest.xml:28:5-20
+MERGED from [com.google.android.gms:play-services-auth:9.8.0] C:\Users\ASUS\.android\build-cache\5b8352c1a5588af50f4f5bba888e134862474bad\output\AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\ASUS\.android\build-cache\5202d65c345016e34012f1dd29ae584c2c5ba3ad\output\AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\ASUS\.android\build-cache\aaf236f601871976a07e007aed2175c08d0ba0c9\output\AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\ASUS\.android\build-cache\e36cb835fbcc9c5cbe852dfd5775c1afae3003fa\output\AndroidManifest.xml:19:5-21:19
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\ASUS\.android\build-cache\c7e9827c0855eafec1a9d92a2ac4fde9368f0f61\output\AndroidManifest.xml:9:5-20
+MERGED from [com.github.elevenetc:textsurface:0.9.1] C:\Users\ASUS\.android\build-cache\ceb397b92bbe6d2a256648adbeebca2bb2901858\output\AndroidManifest.xml:11:5-14:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ASUS\.android\build-cache\55bc93639bc31ec2016da3549826f958028a4dc5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\ASUS\.android\build-cache\818c6a2c0ba5e6642425e54384ae5c851aafd379\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\ASUS\.android\build-cache\87f91dd96d802d98dd241e399af4f9ff6e342284\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\ASUS\.android\build-cache\645a68fa787947f61a8a943427b239e77a7b12f3\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\ASUS\.android\build-cache\84571a9865412f717fdb97cf1d0958bb588e7d79\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\ASUS\.android\build-cache\436aad8111b2dab938bfcd8a28a5d4832299445f\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\ASUS\.android\build-cache\3dc21ced2ba6da0310b16c4582fd5b2ebfb74baf\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\ASUS\.android\build-cache\fd89c917e96e040f5bd87ff48ffea7e3f5553c65\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\ASUS\.android\build-cache\ba52d91ab5f463438d92d96e09c588b9b5a17da0\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\amthuc\app\src\main\AndroidManifest.xml:17:9-41
+	android:supportsRtl
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\amthuc\app\src\main\AndroidManifest.xml:19:9-35
+	android:roundIcon
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\amthuc\app\src\main\AndroidManifest.xml:18:9-54
+	android:allowBackup
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\amthuc\app\src\main\AndroidManifest.xml:15:9-35
+	android:icon
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\amthuc\app\src\main\AndroidManifest.xml:16:9-49
+	android:installLocation
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\amthuc\app\src\main\AndroidManifest.xml:21:9-39
+	android:theme
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\amthuc\app\src\main\AndroidManifest.xml:20:9-65
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from C:\Users\ASUS\AndroidStudioProjects\amthuc\app\src\main\AndroidManifest.xml:22:9-23:54
+	android:value
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\amthuc\app\src\main\AndroidManifest.xml:23:13-52
+	android:name
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\amthuc\app\src\main\AndroidManifest.xml:22:20-65
+provider#com.facebook.FacebookContentProvider
+ADDED from C:\Users\ASUS\AndroidStudioProjects\amthuc\app\src\main\AndroidManifest.xml:25:9-27:38
+	android:authorities
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\amthuc\app\src\main\AndroidManifest.xml:25:19-97
+	android:exported
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\amthuc\app\src\main\AndroidManifest.xml:27:13-36
+	android:name
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\amthuc\app\src\main\AndroidManifest.xml:26:13-64
+activity#net.pmsv.diadiemcaobang.MainActivity
+ADDED from C:\Users\ASUS\AndroidStudioProjects\amthuc\app\src\main\AndroidManifest.xml:29:9-31:20
+	android:name
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\amthuc\app\src\main\AndroidManifest.xml:29:19-47
+activity#com.facebook.FacebookActivity
+ADDED from C:\Users\ASUS\AndroidStudioProjects\amthuc\app\src\main\AndroidManifest.xml:33:9-36:48
+	android:label
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\amthuc\app\src\main\AndroidManifest.xml:36:13-45
+	android:configChanges
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\amthuc\app\src\main\AndroidManifest.xml:35:13-96
+	android:theme
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\amthuc\app\src\main\AndroidManifest.xml:34:13-72
+	android:name
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\amthuc\app\src\main\AndroidManifest.xml:33:19-63
+activity#net.pmsv.diadiemcaobang.HomeActivity
+ADDED from C:\Users\ASUS\AndroidStudioProjects\amthuc\app\src\main\AndroidManifest.xml:38:9-39:20
+	android:name
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\amthuc\app\src\main\AndroidManifest.xml:38:19-47
+activity#net.pmsv.diadiemcaobang.AnimationActivity
+ADDED from C:\Users\ASUS\AndroidStudioProjects\amthuc\app\src\main\AndroidManifest.xml:41:9-42:20
+	android:name
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\amthuc\app\src\main\AndroidManifest.xml:41:19-52
+activity#net.pmsv.diadiemcaobang.ScrollingActivity
+ADDED from C:\Users\ASUS\AndroidStudioProjects\amthuc\app\src\main\AndroidManifest.xml:44:9-47:72
+	android:label
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\amthuc\app\src\main\AndroidManifest.xml:46:13-61
+	android:theme
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\amthuc\app\src\main\AndroidManifest.xml:47:13-69
+	android:name
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\amthuc\app\src\main\AndroidManifest.xml:45:13-46
+activity#net.pmsv.diadiemcaobang.DiaDiemActivity
+ADDED from C:\Users\ASUS\AndroidStudioProjects\amthuc\app\src\main\AndroidManifest.xml:49:9-53
+	android:name
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\amthuc\app\src\main\AndroidManifest.xml:49:19-50
+activity#net.pmsv.diadiemcaobang.DiaDiemDetailActivity
+ADDED from C:\Users\ASUS\AndroidStudioProjects\amthuc\app\src\main\AndroidManifest.xml:51:9-52:20
+	android:name
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\amthuc\app\src\main\AndroidManifest.xml:51:19-56
+activity#net.pmsv.diadiemcaobang.GocChupActivity
+ADDED from C:\Users\ASUS\AndroidStudioProjects\amthuc\app\src\main\AndroidManifest.xml:54:9-55:20
+	android:name
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\amthuc\app\src\main\AndroidManifest.xml:54:19-50
+activity#net.pmsv.diadiemcaobang.FlashScreenActivity
+ADDED from C:\Users\ASUS\AndroidStudioProjects\amthuc\app\src\main\AndroidManifest.xml:57:9-62:20
+	android:name
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\amthuc\app\src\main\AndroidManifest.xml:57:19-54
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\ASUS\AndroidStudioProjects\amthuc\app\src\main\AndroidManifest.xml:58:13-61:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\ASUS\AndroidStudioProjects\amthuc\app\src\main\AndroidManifest.xml:59:17-69
+	android:name
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\amthuc\app\src\main\AndroidManifest.xml:59:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\ASUS\AndroidStudioProjects\amthuc\app\src\main\AndroidManifest.xml:60:17-77
+	android:name
+		ADDED from C:\Users\ASUS\AndroidStudioProjects\amthuc\app\src\main\AndroidManifest.xml:60:27-74
+uses-sdk
+INJECTED from C:\Users\ASUS\AndroidStudioProjects\amthuc\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\ASUS\.android\build-cache\8ad29461978a171e94c5f864ecac741f6dad0f10\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:design:25.3.1] C:\Users\ASUS\.android\build-cache\2a0643084bca73f028302fd6d154d0d1b40f5191\output\AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:transition:25.3.1] C:\Users\ASUS\.android\build-cache\c70e2403ac250363e9a03cbcd3c77d656780281e\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\ASUS\.android\build-cache\62c22171cb65961e9b1864765d272ed27713bbb3\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\ASUS\.android\build-cache\45b1412f58f7cc434d60f9bbe7c72dbd6c6b37b7\output\AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.android:facebook-android-sdk:4.0.0] C:\Users\ASUS\.android\build-cache\8fc33ddba6e0a041d114a74afcd99dfdb21ddce1\output\AndroidManifest.xml:24:5-26:41
+MERGED from [com.google.android.gms:play-services-auth:9.8.0] C:\Users\ASUS\.android\build-cache\5b8352c1a5588af50f4f5bba888e134862474bad\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-auth-base:9.8.0] C:\Users\ASUS\.android\build-cache\33b9e499d6d33e364edd31193d1a043df5b9dbde\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\ASUS\.android\build-cache\5202d65c345016e34012f1dd29ae584c2c5ba3ad\output\AndroidManifest.xml:17:5-42
+MERGED from [com.google.android.gms:play-services-tasks:9.8.0] C:\Users\ASUS\.android\build-cache\aaf236f601871976a07e007aed2175c08d0ba0c9\output\AndroidManifest.xml:3:5-42
+MERGED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\ASUS\.android\build-cache\e36cb835fbcc9c5cbe852dfd5775c1afae3003fa\output\AndroidManifest.xml:17:5-42
+MERGED from [com.daimajia.slider:library:1.1.5] C:\Users\ASUS\.android\build-cache\1ac963053589fda2872cddb77760b8c4bdbfb2cc\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.yalantis:jellytoolbar:v1.0] C:\Users\ASUS\.android\build-cache\65be51872da46ee9614f06df8d9b5d6dcebdfd5f\output\AndroidManifest.xml:8:5-10:41
+MERGED from [de.hdodenhof:circleimageview:2.1.0] C:\Users\ASUS\.android\build-cache\c7e9827c0855eafec1a9d92a2ac4fde9368f0f61\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.github.elevenetc:textsurface:0.9.1] C:\Users\ASUS\.android\build-cache\ceb397b92bbe6d2a256648adbeebca2bb2901858\output\AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ASUS\.android\build-cache\55bc93639bc31ec2016da3549826f958028a4dc5\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\ASUS\.android\build-cache\818c6a2c0ba5e6642425e54384ae5c851aafd379\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\ASUS\.android\build-cache\87f91dd96d802d98dd241e399af4f9ff6e342284\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\ASUS\.android\build-cache\645a68fa787947f61a8a943427b239e77a7b12f3\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\ASUS\.android\build-cache\84571a9865412f717fdb97cf1d0958bb588e7d79\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\ASUS\.android\build-cache\436aad8111b2dab938bfcd8a28a5d4832299445f\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\ASUS\.android\build-cache\3dc21ced2ba6da0310b16c4582fd5b2ebfb74baf\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\ASUS\.android\build-cache\fd89c917e96e040f5bd87ff48ffea7e3f5553c65\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\ASUS\.android\build-cache\ba52d91ab5f463438d92d96e09c588b9b5a17da0\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] C:\Users\ASUS\.android\build-cache\2a0643084bca73f028302fd6d154d0d1b40f5191\output\AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from C:\Users\ASUS\AndroidStudioProjects\amthuc\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ASUS\AndroidStudioProjects\amthuc\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\ASUS\AndroidStudioProjects\amthuc\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\ASUS\AndroidStudioProjects\amthuc\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] C:\Users\ASUS\.android\build-cache\2a0643084bca73f028302fd6d154d0d1b40f5191\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:transition:25.3.1] C:\Users\ASUS\.android\build-cache\c70e2403ac250363e9a03cbcd3c77d656780281e\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] C:\Users\ASUS\.android\build-cache\62c22171cb65961e9b1864765d272ed27713bbb3\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] C:\Users\ASUS\.android\build-cache\45b1412f58f7cc434d60f9bbe7c72dbd6c6b37b7\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\ASUS\.android\build-cache\55bc93639bc31ec2016da3549826f958028a4dc5\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\ASUS\.android\build-cache\818c6a2c0ba5e6642425e54384ae5c851aafd379\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\ASUS\.android\build-cache\87f91dd96d802d98dd241e399af4f9ff6e342284\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\ASUS\.android\build-cache\645a68fa787947f61a8a943427b239e77a7b12f3\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\ASUS\.android\build-cache\84571a9865412f717fdb97cf1d0958bb588e7d79\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\ASUS\.android\build-cache\436aad8111b2dab938bfcd8a28a5d4832299445f\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\ASUS\.android\build-cache\3dc21ced2ba6da0310b16c4582fd5b2ebfb74baf\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\ASUS\.android\build-cache\fd89c917e96e040f5bd87ff48ffea7e3f5553c65\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\ASUS\.android\build-cache\ba52d91ab5f463438d92d96e09c588b9b5a17da0\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] C:\Users\ASUS\.android\build-cache\2a0643084bca73f028302fd6d154d0d1b40f5191\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] C:\Users\ASUS\.android\build-cache\2a0643084bca73f028302fd6d154d0d1b40f5191\output\AndroidManifest.xml:26:9-47
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:9.8.0] C:\Users\ASUS\.android\build-cache\5b8352c1a5588af50f4f5bba888e134862474bad\output\AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] C:\Users\ASUS\.android\build-cache\5b8352c1a5588af50f4f5bba888e134862474bad\output\AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] C:\Users\ASUS\.android\build-cache\5b8352c1a5588af50f4f5bba888e134862474bad\output\AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] C:\Users\ASUS\.android\build-cache\5b8352c1a5588af50f4f5bba888e134862474bad\output\AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] C:\Users\ASUS\.android\build-cache\5b8352c1a5588af50f4f5bba888e134862474bad\output\AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:9.8.0] C:\Users\ASUS\.android\build-cache\5b8352c1a5588af50f4f5bba888e134862474bad\output\AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] C:\Users\ASUS\.android\build-cache\5b8352c1a5588af50f4f5bba888e134862474bad\output\AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] C:\Users\ASUS\.android\build-cache\5b8352c1a5588af50f4f5bba888e134862474bad\output\AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:9.8.0] C:\Users\ASUS\.android\build-cache\5b8352c1a5588af50f4f5bba888e134862474bad\output\AndroidManifest.xml:24:18-63
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\ASUS\.android\build-cache\5202d65c345016e34012f1dd29ae584c2c5ba3ad\output\AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\ASUS\.android\build-cache\5202d65c345016e34012f1dd29ae584c2c5ba3ad\output\AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\ASUS\.android\build-cache\5202d65c345016e34012f1dd29ae584c2c5ba3ad\output\AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:9.8.0] C:\Users\ASUS\.android\build-cache\5202d65c345016e34012f1dd29ae584c2c5ba3ad\output\AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\ASUS\.android\build-cache\e36cb835fbcc9c5cbe852dfd5775c1afae3003fa\output\AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\ASUS\.android\build-cache\e36cb835fbcc9c5cbe852dfd5775c1afae3003fa\output\AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.8.0] C:\Users\ASUS\.android\build-cache\e36cb835fbcc9c5cbe852dfd5775c1afae3003fa\output\AndroidManifest.xml:20:20-65

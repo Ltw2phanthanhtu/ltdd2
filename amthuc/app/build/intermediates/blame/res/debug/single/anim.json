@@ -1,0 +1,662 @@
+[
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\anim\\zoom.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\src\\main\\res\\anim\\zoom.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_up.xml",
+        "source": "H:\\DiaDiemCaoBang\\app\\src\\main\\res\\anim\\slide_up.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\f6eaee569643e2b655e648f548ffca6a91a55f02\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\2a0643084bca73f028302fd6d154d0d1b40f5191\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\f6eaee569643e2b655e648f548ffca6a91a55f02\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\2a0643084bca73f028302fd6d154d0d1b40f5191\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\zoom_out.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\src\\main\\res\\anim\\zoom_out.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\blink.xml",
+        "source": "E:\\DiaDiemCaoBang\\app\\src\\main\\res\\anim\\blink.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in.xml",
+        "source": "H:\\DiaDiemCaoBang\\app\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\2a0643084bca73f028302fd6d154d0d1b40f5191\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\clockwise.xml",
+        "source": "H:\\DiaDiemCaoBang\\app\\src\\main\\res\\anim\\clockwise.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\2a0643084bca73f028302fd6d154d0d1b40f5191\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\9e8f805f80c99887820e0f898b5bcee552e8715f\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\f6eaee569643e2b655e648f548ffca6a91a55f02\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\zoom_in.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\src\\main\\res\\anim\\zoom_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\src\\main\\res\\anim\\fade.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\2a0643084bca73f028302fd6d154d0d1b40f5191\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\anim\\sequential.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\src\\main\\res\\anim\\sequential.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_down.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\src\\main\\res\\anim\\slide_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_up.xml",
+        "source": "E:\\DiaDiemCaoBang\\app\\src\\main\\res\\anim\\slide_up.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\move.xml",
+        "source": "H:\\DiaDiemCaoBang\\app\\src\\main\\res\\anim\\move.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_down.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\src\\main\\res\\anim\\slide_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\sequential.xml",
+        "source": "H:\\DiaDiemCaoBang\\app\\src\\main\\res\\anim\\sequential.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\f6eaee569643e2b655e648f548ffca6a91a55f02\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\zoom.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\src\\main\\res\\anim\\zoom.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\move.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\src\\main\\res\\anim\\move.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\zoom_in.xml",
+        "source": "E:\\DiaDiemCaoBang\\app\\src\\main\\res\\anim\\zoom_in.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\f6eaee569643e2b655e648f548ffca6a91a55f02\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\anim\\blink.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\src\\main\\res\\anim\\blink.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_out.xml",
+        "source": "E:\\DiaDiemCaoBang\\app\\src\\main\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in.xml",
+        "source": "E:\\DiaDiemCaoBang\\app\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\anim\\zoom_out.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\src\\main\\res\\anim\\zoom_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\together.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\src\\main\\res\\anim\\together.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\src\\main\\res\\anim\\slide.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\together.xml",
+        "source": "E:\\DiaDiemCaoBang\\app\\src\\main\\res\\anim\\together.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\2a0643084bca73f028302fd6d154d0d1b40f5191\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\anim\\flip.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\src\\main\\res\\anim\\flip.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\adf7c54bdd88fbb10d1510b41b2122ed70a4a36a\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\src\\main\\res\\anim\\slide.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\bounce.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\src\\main\\res\\anim\\bounce.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\zoom_in.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\src\\main\\res\\anim\\zoom_in.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide.xml",
+        "source": "E:\\DiaDiemCaoBang\\app\\src\\main\\res\\anim\\slide.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\adf7c54bdd88fbb10d1510b41b2122ed70a4a36a\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\b3af5789380674e074218aae468493f676e2aaad\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\move.xml",
+        "source": "E:\\DiaDiemCaoBang\\app\\src\\main\\res\\anim\\move.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\zoom_out.xml",
+        "source": "H:\\DiaDiemCaoBang\\app\\src\\main\\res\\anim\\zoom_out.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\b3af5789380674e074218aae468493f676e2aaad\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\flip.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\src\\main\\res\\anim\\flip.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide.xml",
+        "source": "H:\\DiaDiemCaoBang\\app\\src\\main\\res\\anim\\slide.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_down.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\src\\main\\res\\anim\\slide_down.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\adf7c54bdd88fbb10d1510b41b2122ed70a4a36a\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\anim\\together.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\src\\main\\res\\anim\\together.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\f6eaee569643e2b655e648f548ffca6a91a55f02\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_in.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\src\\main\\res\\anim\\fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\blink.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\src\\main\\res\\anim\\blink.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_out.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\src\\main\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\2a0643084bca73f028302fd6d154d0d1b40f5191\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\f6eaee569643e2b655e648f548ffca6a91a55f02\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\2a0643084bca73f028302fd6d154d0d1b40f5191\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\zoom_out.xml",
+        "source": "E:\\DiaDiemCaoBang\\app\\src\\main\\res\\anim\\zoom_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_up.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\src\\main\\res\\anim\\slide_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade.xml",
+        "source": "E:\\DiaDiemCaoBang\\app\\src\\main\\res\\anim\\fade.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\b3af5789380674e074218aae468493f676e2aaad\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\2a0643084bca73f028302fd6d154d0d1b40f5191\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\2a0643084bca73f028302fd6d154d0d1b40f5191\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\src\\main\\res\\anim\\slide.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\sequential.xml",
+        "source": "E:\\DiaDiemCaoBang\\app\\src\\main\\res\\anim\\sequential.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\2a0643084bca73f028302fd6d154d0d1b40f5191\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\adf7c54bdd88fbb10d1510b41b2122ed70a4a36a\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\rotate.xml",
+        "source": "E:\\DiaDiemCaoBang\\app\\src\\main\\res\\anim\\rotate.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\9e8f805f80c99887820e0f898b5bcee552e8715f\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\zoom.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\src\\main\\res\\anim\\zoom.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\adf7c54bdd88fbb10d1510b41b2122ed70a4a36a\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\move.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\src\\main\\res\\anim\\move.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\zoom.xml",
+        "source": "H:\\DiaDiemCaoBang\\app\\src\\main\\res\\anim\\zoom.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\rotate.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\src\\main\\res\\anim\\rotate.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\flip.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\src\\main\\res\\anim\\flip.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\flip.xml",
+        "source": "H:\\DiaDiemCaoBang\\app\\src\\main\\res\\anim\\flip.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\anim\\zoom_in.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\src\\main\\res\\anim\\zoom_in.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\flip.xml",
+        "source": "E:\\DiaDiemCaoBang\\app\\src\\main\\res\\anim\\flip.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_out.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\src\\main\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\2a0643084bca73f028302fd6d154d0d1b40f5191\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\clockwise.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\src\\main\\res\\anim\\clockwise.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\adf7c54bdd88fbb10d1510b41b2122ed70a4a36a\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\anim\\rotate.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\src\\main\\res\\anim\\rotate.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\zoom.xml",
+        "source": "E:\\DiaDiemCaoBang\\app\\src\\main\\res\\anim\\zoom.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\bounce.xml",
+        "source": "H:\\DiaDiemCaoBang\\app\\src\\main\\res\\anim\\bounce.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\anim\\move.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\src\\main\\res\\anim\\move.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\adf7c54bdd88fbb10d1510b41b2122ed70a4a36a\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\clockwise.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\src\\main\\res\\anim\\clockwise.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade.xml",
+        "source": "H:\\DiaDiemCaoBang\\app\\src\\main\\res\\anim\\fade.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\zoom_in.xml",
+        "source": "H:\\DiaDiemCaoBang\\app\\src\\main\\res\\anim\\zoom_in.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_enter.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\f6eaee569643e2b655e648f548ffca6a91a55f02\\output\\res\\anim\\abc_popup_enter.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_out.xml",
+        "source": "H:\\DiaDiemCaoBang\\app\\src\\main\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_top.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\anim\\abc_slide_out_top.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\together.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\src\\main\\res\\anim\\together.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\anim\\bounce.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\src\\main\\res\\anim\\bounce.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_down.xml",
+        "source": "E:\\DiaDiemCaoBang\\app\\src\\main\\res\\anim\\slide_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_up.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\src\\main\\res\\anim\\slide_up.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_shrink_fade_out_from_bottom.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\f6eaee569643e2b655e648f548ffca6a91a55f02\\output\\res\\anim\\abc_shrink_fade_out_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\rotate.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\src\\main\\res\\anim\\rotate.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\together.xml",
+        "source": "H:\\DiaDiemCaoBang\\app\\src\\main\\res\\anim\\together.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\rotate.xml",
+        "source": "H:\\DiaDiemCaoBang\\app\\src\\main\\res\\anim\\rotate.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\9e8f805f80c99887820e0f898b5bcee552e8715f\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\2a0643084bca73f028302fd6d154d0d1b40f5191\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_out.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\adf7c54bdd88fbb10d1510b41b2122ed70a4a36a\\output\\res\\anim\\abc_fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_top.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\anim\\abc_slide_in_top.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\clockwise.xml",
+        "source": "E:\\DiaDiemCaoBang\\app\\src\\main\\res\\anim\\clockwise.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade_out.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\src\\main\\res\\anim\\fade_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\2a0643084bca73f028302fd6d154d0d1b40f5191\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\2a0643084bca73f028302fd6d154d0d1b40f5191\\output\\res\\anim\\design_snackbar_in.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\b3af5789380674e074218aae468493f676e2aaad\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\2a0643084bca73f028302fd6d154d0d1b40f5191\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\bounce.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\src\\main\\res\\anim\\bounce.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\sequential.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\src\\main\\res\\anim\\sequential.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_up.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\src\\main\\res\\anim\\slide_up.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\src\\main\\res\\anim\\fade.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_out.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\2a0643084bca73f028302fd6d154d0d1b40f5191\\output\\res\\anim\\design_bottom_sheet_slide_out.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\bounce.xml",
+        "source": "E:\\DiaDiemCaoBang\\app\\src\\main\\res\\anim\\bounce.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_fade_in.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\anim\\abc_fade_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_in_bottom.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\anim\\abc_slide_in_bottom.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_bottom_sheet_slide_in.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\b3af5789380674e074218aae468493f676e2aaad\\output\\res\\anim\\design_bottom_sheet_slide_in.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\blink.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\src\\main\\res\\anim\\blink.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_grow_fade_in_from_bottom.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\adf7c54bdd88fbb10d1510b41b2122ed70a4a36a\\output\\res\\anim\\abc_grow_fade_in_from_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\sequential.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\src\\main\\res\\anim\\sequential.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_out.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\9e8f805f80c99887820e0f898b5bcee552e8715f\\output\\res\\anim\\design_fab_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\anim\\fade.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\src\\main\\res\\anim\\fade.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_fab_in.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\9e8f805f80c99887820e0f898b5bcee552e8715f\\output\\res\\anim\\design_fab_in.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\b3af5789380674e074218aae468493f676e2aaad\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\zoom_out.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\src\\main\\res\\anim\\zoom_out.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_popup_exit.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\adf7c54bdd88fbb10d1510b41b2122ed70a4a36a\\output\\res\\anim\\abc_popup_exit.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\f6eaee569643e2b655e648f548ffca6a91a55f02\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\anim\\clockwise.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\src\\main\\res\\anim\\clockwise.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\slide_down.xml",
+        "source": "H:\\DiaDiemCaoBang\\app\\src\\main\\res\\anim\\slide_down.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\abc_slide_out_bottom.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\anim\\abc_slide_out_bottom.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_out.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\2a0643084bca73f028302fd6d154d0d1b40f5191\\output\\res\\anim\\design_snackbar_out.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\blink.xml",
+        "source": "H:\\DiaDiemCaoBang\\app\\src\\main\\res\\anim\\blink.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\anim\\design_snackbar_in.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\9e8f805f80c99887820e0f898b5bcee552e8715f\\output\\res\\anim\\design_snackbar_in.xml"
+    }
+]

@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:fitsSystemWindows="true"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background_home_below">
+
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/appbar"
+        android:layout_width="match_parent"
+        android:layout_height="200dp"
+        android:fitsSystemWindows="false">
+
+        <android.support.design.widget.CollapsingToolbarLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            app:contentScrim="?attr/colorPrimary"
+            app:layout_scrollFlags="scroll|exitUntilCollapsed"
+            app:layout_scrollInterpolator="@android:anim/decelerate_interpolator"
+            app:toolbarId="@+id/toolbarChiTiet">
+
+            <ImageView
+                android:id="@+id/app_bar_image"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:scaleType="centerCrop"
+                app:srcCompat="@drawable/background_home_thaibinh" />
+
+            <android.support.v7.widget.Toolbar
+                android:id="@+id/toolbarChiTiet"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_alignParentStart="true"
+                android:layout_alignParentTop="true"
+                android:buttonGravity="top"
+                android:clipChildren="false"
+                android:elevation="4dp"
+                android:minHeight="?attr/actionBarSize"
+                android:textAlignment="center"
+                android:theme="@style/ThemeOverlay.AppCompat.ActionBar"
+                app:subtitle="SVTour"
+                app:subtitleTextColor="@android:color/holo_green_dark" />
+
+        </android.support.design.widget.CollapsingToolbarLayout>
+    </android.support.design.widget.AppBarLayout>
+
+    <android.support.v4.widget.NestedScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        app:layout_behavior="android.support.design.widget.AppBarLayout$ScrollingViewBehavior">
+
+        <RelativeLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            tools:context="net.pmsv.diadiemcaobang.MainActivity"
+            tools:layout_editor_absoluteX="0dp"
+            tools:layout_editor_absoluteY="5dp">
+
+            <TextView
+                android:id="@+id/tvMatKhau"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="46dp"
+                android:layout_marginTop="107dp"
+                android:text="@string/password"
+                android:textSize="18sp"
+                android:layout_alignParentTop="true"
+                android:layout_alignStart="@+id/tvTenDangNhap"
+
+                />
+
+            <TextView
+                android:id="@+id/tvTenDangNhap"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_above="@+id/txtMatKhau"
+                android:layout_marginBottom="21dp"
+                android:layout_toStartOf="@+id/btDangNhap"
+                android:text="@string/username"
+                android:textSize="18sp" />
+
+            <EditText
+                android:id="@+id/txtDangNhap"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBaseline="@+id/tvTenDangNhap"
+                android:layout_alignBottom="@+id/tvTenDangNhap"
+                android:layout_alignStart="@+id/txtMatKhau"
+                android:ems="10"
+                android:inputType="textPersonName"/>
+
+            <EditText
+                android:id="@+id/txtMatKhau"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignBaseline="@+id/tvMatKhau"
+                android:layout_alignBottom="@+id/tvMatKhau"
+                android:layout_marginStart="14dp"
+                android:layout_toEndOf="@+id/tvTenDangNhap"
+                android:ems="10"
+                android:inputType="textPersonName"
+                android:selectAllOnFocus="false" />
+
+            <com.google.android.gms.common.SignInButton
+                android:id="@+id/btnloginGG"
+                android:layout_width="40dp"
+                android:layout_height="30dp"
+                android:layout_below="@id/txtMatKhau"
+                android:layout_toRightOf="@id/txtMatKhau"
+                android:layout_marginStart="-70dp"
+                app:buttonSize="icon_only"
+                android:layout_marginTop="5dp"/>
+
+            <com.facebook.login.widget.LoginButton
+                android:id="@+id/btnLoginFB"
+                android:layout_width="@dimen/Width_btnLoginFB"
+                android:layout_height="@dimen/Height_btnLoginFB"
+                android:layout_below="@+id/txtMatKhau"
+                android:layout_toRightOf="@+id/txtMatKhau"
+                android:layout_marginStart="-30dp"
+                android:layout_marginTop="5dp"/>
+
+            <Button
+                android:id="@+id/btDangNhap"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_below="@+id/btnLoginFB"
+                android:layout_centerHorizontal="true"
+                android:text="@string/dangnhap" />
+
+            <Button
+                android:id="@+id/btDangKy"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_alignEnd="@+id/btDangNhap"
+                android:layout_alignStart="@+id/btDangNhap"
+                android:layout_below="@+id/btDangNhap"
+                android:layout_marginTop="16dp"
+                android:text="@string/dangky" />
+
+            <Button
+                android:id="@+id/btBoQua"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/boqua"
+                android:layout_alignEnd="@+id/btDangKy"
+                android:layout_alignStart="@+id/btDangKy"
+                android:layout_below="@+id/btDangKy"
+                android:layout_marginTop="16dp"/>
+
+
+
+        </RelativeLayout>
+    </android.support.v4.widget.NestedScrollView>
+</android.support.design.widget.CoordinatorLayout>

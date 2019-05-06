@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1060474835673",
+    "project_id": "firebase-svtour"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1060474835673:android:a4607d860b8c6648",
+        "android_client_info": {
+          "package_name": "net.pmsv.diadiemcaobang"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1060474835673-0g9foduj91ellun515de746oup70pel9.apps.googleusercontent.com",
+          "client_type": 3
+        },
+        {
+          "client_id": "1060474835673-2d32d1q1r9ribi85tmem1b02f0bbur04.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "net.pmsv.diadiemcaobang",
+            "certificate_hash": "8a51eef55893f6cbca13d67096b3d90cf3181f46"
+          }
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0YjDtsUt6hXD1cDLXiTpQwA5kJWCumD0"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 1
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

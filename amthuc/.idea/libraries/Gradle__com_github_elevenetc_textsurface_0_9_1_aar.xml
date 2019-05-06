@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.elevenetc:textsurface:0.9.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.android/build-cache/ceb397b92bbe6d2a256648adbeebca2bb2901858/output/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.android/build-cache/ceb397b92bbe6d2a256648adbeebca2bb2901858/output/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

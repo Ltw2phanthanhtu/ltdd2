@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/dangnhap_menu"
+        android:title="@string/dangnhap"
+        android:actionLayout="@layout/support_simple_spinner_dropdown_item"
+        android:icon="@drawable/map" />
+    <item
+        android:id="@+id/dangky_menu"
+        android:title="@string/dangky"
+        android:actionLayout="@layout/support_simple_spinner_dropdown_item"
+        android:icon="@drawable/tk_dangky" />
+</menu>

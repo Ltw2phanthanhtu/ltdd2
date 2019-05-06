@@ -1,0 +1,29 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools">
+
+    <item
+        android:id="@+id/thongtin"
+        android:orderInCategory="100"
+        android:title="@string/thong_tin" />
+
+    <item
+        android:id="@+id/thoidiem"
+        android:orderInCategory="101"
+        android:title="@string/thoi_diem" />
+
+    <item
+        android:id="@+id/duongdi"
+        android:orderInCategory="102"
+        android:title="@string/duong_di" />
+
+    <item
+        android:id="@+id/gochup"
+        android:orderInCategory="103"
+        android:title="@string/goc_chup" />
+
+    <item
+        android:id="@+id/machnho"
+        android:orderInCategory="104"
+        android:title="@string/mach_nho" />
+</menu>

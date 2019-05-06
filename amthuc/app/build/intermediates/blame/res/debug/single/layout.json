@@ -1,0 +1,1778 @@
+[
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\edit_text.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\src\\main\\res\\layout\\edit_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\indicator_layout.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\1ac963053589fda2872cddb77760b8c4bdbfb2cc\\output\\res\\layout\\indicator_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\2a0643084bca73f028302fd6d154d0d1b40f5191\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\b3af5789380674e074218aae468493f676e2aaad\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\2a0643084bca73f028302fd6d154d0d1b40f5191\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\adf7c54bdd88fbb10d1510b41b2122ed70a4a36a\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\adf7c54bdd88fbb10d1510b41b2122ed70a4a36a\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_large.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\643618481305ad40567a3ebb2e2664dcf84d4913\\output\\res\\layout\\messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dia_diem_detail.xml",
+        "source": "H:\\DiaDiemCaoBang\\app\\src\\main\\res\\layout\\activity_dia_diem_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\f6eaee569643e2b655e648f548ffca6a91a55f02\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\edit_text.xml",
+        "source": "H:\\DiaDiemCaoBang\\app\\src\\main\\res\\layout\\edit_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\f6eaee569643e2b655e648f548ffca6a91a55f02\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\2a0643084bca73f028302fd6d154d0d1b40f5191\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_round.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\643618481305ad40567a3ebb2e2664dcf84d4913\\output\\res\\layout\\messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\render_type_text.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\1ac963053589fda2872cddb77760b8c4bdbfb2cc\\output\\res\\layout\\render_type_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_activity_layout.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\97c3e83e37d8d5a0c737f68202f081117c053588\\output\\res\\layout\\com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_main.xml",
+        "source": "E:\\DiaDiemCaoBang\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\adf7c54bdd88fbb10d1510b41b2122ed70a4a36a\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lv_item_diadiem_detail.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\src\\main\\res\\layout\\lv_item_diadiem_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_activity_layout.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\8fc33ddba6e0a041d114a74afcd99dfdb21ddce1\\output\\res\\layout\\com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_content.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\fadc818350871b74cc3a814e74e130ca20254058\\output\\res\\layout\\layout_content.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\b3af5789380674e074218aae468493f676e2aaad\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\2a0643084bca73f028302fd6d154d0d1b40f5191\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_thong_tin.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\src\\main\\res\\layout\\dialog_thong_tin.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\f6eaee569643e2b655e648f548ffca6a91a55f02\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\2a0643084bca73f028302fd6d154d0d1b40f5191\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_scrolling.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\src\\main\\res\\layout\\content_scrolling.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\f6eaee569643e2b655e648f548ffca6a91a55f02\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\appbar.xml",
+        "source": "H:\\DiaDiemCaoBang\\app\\src\\main\\res\\layout\\appbar.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_small.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\643618481305ad40567a3ebb2e2664dcf84d4913\\output\\res\\layout\\messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_goc_chup.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\src\\main\\res\\layout\\activity_goc_chup.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_goc_chup.xml",
+        "source": "H:\\DiaDiemCaoBang\\app\\src\\main\\res\\layout\\activity_goc_chup.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\adf7c54bdd88fbb10d1510b41b2122ed70a4a36a\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\f6eaee569643e2b655e648f548ffca6a91a55f02\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_tooltip_bubble.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\97c3e83e37d8d5a0c737f68202f081117c053588\\output\\res\\layout\\com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dia_diem_detail.xml",
+        "source": "E:\\DiaDiemCaoBang\\app\\src\\main\\res\\layout\\activity_dia_diem_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\2a0643084bca73f028302fd6d154d0d1b40f5191\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\adf7c54bdd88fbb10d1510b41b2122ed70a4a36a\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_tooltip_bubble.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\8fc33ddba6e0a041d114a74afcd99dfdb21ddce1\\output\\res\\layout\\com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\b3af5789380674e074218aae468493f676e2aaad\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\2a0643084bca73f028302fd6d154d0d1b40f5191\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\f6eaee569643e2b655e648f548ffca6a91a55f02\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_dia_diem.xml",
+        "source": "E:\\DiaDiemCaoBang\\app\\src\\main\\res\\layout\\list_dia_diem.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_dia_diem.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\src\\main\\res\\layout\\list_dia_diem.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_large.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\97c3e83e37d8d5a0c737f68202f081117c053588\\output\\res\\layout\\messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\addtheme.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\src\\main\\res\\layout\\addtheme.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dia_diem.xml",
+        "source": "H:\\DiaDiemCaoBang\\app\\src\\main\\res\\layout\\activity_dia_diem.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\adf7c54bdd88fbb10d1510b41b2122ed70a4a36a\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_flash_screen.xml",
+        "source": "E:\\DiaDiemCaoBang\\app\\src\\main\\res\\layout\\activity_flash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\2a0643084bca73f028302fd6d154d0d1b40f5191\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_large.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\8fc33ddba6e0a041d114a74afcd99dfdb21ddce1\\output\\res\\layout\\messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\2a0643084bca73f028302fd6d154d0d1b40f5191\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\f6eaee569643e2b655e648f548ffca6a91a55f02\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_scrolling.xml",
+        "source": "E:\\DiaDiemCaoBang\\app\\src\\main\\res\\layout\\content_scrolling.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\adf7c54bdd88fbb10d1510b41b2122ed70a4a36a\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_login_fragment.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\8fc33ddba6e0a041d114a74afcd99dfdb21ddce1\\output\\res\\layout\\com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\b3af5789380674e074218aae468493f676e2aaad\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\adf7c54bdd88fbb10d1510b41b2122ed70a4a36a\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\f6eaee569643e2b655e648f548ffca6a91a55f02\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_thong_tin.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\src\\main\\res\\layout\\dialog_thong_tin.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_flash_screen.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\src\\main\\res\\layout\\activity_flash_screen.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\9e8f805f80c99887820e0f898b5bcee552e8715f\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dia_diem_detail.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\src\\main\\res\\layout\\activity_dia_diem_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_round.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\8fc33ddba6e0a041d114a74afcd99dfdb21ddce1\\output\\res\\layout\\messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_diadiem.xml",
+        "source": "E:\\DiaDiemCaoBang\\app\\src\\main\\res\\layout\\list_diadiem.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_tooltip_bubble.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\8fc33ddba6e0a041d114a74afcd99dfdb21ddce1\\output\\res\\layout\\com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_login_fragment.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\97c3e83e37d8d5a0c737f68202f081117c053588\\output\\res\\layout\\com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\adf7c54bdd88fbb10d1510b41b2122ed70a4a36a\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\9e8f805f80c99887820e0f898b5bcee552e8715f\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_animation.xml",
+        "source": "H:\\DiaDiemCaoBang\\app\\src\\main\\res\\layout\\activity_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\slider_layout.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\1ac963053589fda2872cddb77760b8c4bdbfb2cc\\output\\res\\layout\\slider_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\2a0643084bca73f028302fd6d154d0d1b40f5191\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_animation.xml",
+        "source": "E:\\DiaDiemCaoBang\\app\\src\\main\\res\\layout\\activity_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_round.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\8fc33ddba6e0a041d114a74afcd99dfdb21ddce1\\output\\res\\layout\\messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_thong_tin.xml",
+        "source": "H:\\DiaDiemCaoBang\\app\\src\\main\\res\\layout\\dialog_thong_tin.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\2a0643084bca73f028302fd6d154d0d1b40f5191\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\src\\main\\res\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\f6eaee569643e2b655e648f548ffca6a91a55f02\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "E:\\DiaDiemCaoBang\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\2a0643084bca73f028302fd6d154d0d1b40f5191\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\2a0643084bca73f028302fd6d154d0d1b40f5191\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lv_item_diadiem_detail.xml",
+        "source": "E:\\DiaDiemCaoBang\\app\\src\\main\\res\\layout\\lv_item_diadiem_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_login_fragment.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\8fc33ddba6e0a041d114a74afcd99dfdb21ddce1\\output\\res\\layout\\com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\2a0643084bca73f028302fd6d154d0d1b40f5191\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\render_type_default.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\7df4d98adffad84323f969eb3d3f220d01f509be\\output\\res\\layout\\render_type_default.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\adf7c54bdd88fbb10d1510b41b2122ed70a4a36a\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\2a0643084bca73f028302fd6d154d0d1b40f5191\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\adf7c54bdd88fbb10d1510b41b2122ed70a4a36a\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lv_header_diadiem_detail.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\src\\main\\res\\layout\\lv_header_diadiem_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\2a0643084bca73f028302fd6d154d0d1b40f5191\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_chi_tiet.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\src\\main\\res\\layout\\list_chi_tiet.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\slider_layout.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\7df4d98adffad84323f969eb3d3f220d01f509be\\output\\res\\layout\\slider_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\2a0643084bca73f028302fd6d154d0d1b40f5191\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\adf7c54bdd88fbb10d1510b41b2122ed70a4a36a\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\9e8f805f80c99887820e0f898b5bcee552e8715f\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\9e8f805f80c99887820e0f898b5bcee552e8715f\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\2a0643084bca73f028302fd6d154d0d1b40f5191\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\f6eaee569643e2b655e648f548ffca6a91a55f02\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_flash_screen.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\src\\main\\res\\layout\\activity_flash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_activity_layout.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\643618481305ad40567a3ebb2e2664dcf84d4913\\output\\res\\layout\\com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\adf7c54bdd88fbb10d1510b41b2122ed70a4a36a\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\f6eaee569643e2b655e648f548ffca6a91a55f02\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\appbar.xml",
+        "source": "E:\\DiaDiemCaoBang\\app\\src\\main\\res\\layout\\appbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\jelly_toolbar.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\65be51872da46ee9614f06df8d9b5d6dcebdfd5f\\output\\res\\layout\\jelly_toolbar.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\adf7c54bdd88fbb10d1510b41b2122ed70a4a36a\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\f6eaee569643e2b655e648f548ffca6a91a55f02\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_content.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\65be51872da46ee9614f06df8d9b5d6dcebdfd5f\\output\\res\\layout\\layout_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lv_header_diadiem_detail.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\src\\main\\res\\layout\\lv_header_diadiem_detail.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\9e8f805f80c99887820e0f898b5bcee552e8715f\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_small.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\8fc33ddba6e0a041d114a74afcd99dfdb21ddce1\\output\\res\\layout\\messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\2a0643084bca73f028302fd6d154d0d1b40f5191\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_small.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\8fc33ddba6e0a041d114a74afcd99dfdb21ddce1\\output\\res\\layout\\messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\adf7c54bdd88fbb10d1510b41b2122ed70a4a36a\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_small.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\8fc33ddba6e0a041d114a74afcd99dfdb21ddce1\\output\\res\\layout\\messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\render_type_text.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\1ac963053589fda2872cddb77760b8c4bdbfb2cc\\output\\res\\layout\\render_type_text.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_round.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\97c3e83e37d8d5a0c737f68202f081117c053588\\output\\res\\layout\\messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_content.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\49080d00b669dd81c5f7bfc74b7ccefe14d25dfc\\output\\res\\layout\\layout_content.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\9e8f805f80c99887820e0f898b5bcee552e8715f\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\2a0643084bca73f028302fd6d154d0d1b40f5191\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\adf7c54bdd88fbb10d1510b41b2122ed70a4a36a\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\2a0643084bca73f028302fd6d154d0d1b40f5191\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\2a0643084bca73f028302fd6d154d0d1b40f5191\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\addtheme.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\src\\main\\res\\layout\\addtheme.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_dia_diem.xml",
+        "source": "H:\\DiaDiemCaoBang\\app\\src\\main\\res\\layout\\list_dia_diem.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_round.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\8fc33ddba6e0a041d114a74afcd99dfdb21ddce1\\output\\res\\layout\\messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_chi_tiet.xml",
+        "source": "H:\\DiaDiemCaoBang\\app\\src\\main\\res\\layout\\list_chi_tiet.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_animation.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\src\\main\\res\\layout\\activity_animation.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\f6eaee569643e2b655e648f548ffca6a91a55f02\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dia_diem_card.xml",
+        "source": "H:\\DiaDiemCaoBang\\app\\src\\main\\res\\layout\\dia_diem_card.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_main.xml",
+        "source": "H:\\DiaDiemCaoBang\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\adf7c54bdd88fbb10d1510b41b2122ed70a4a36a\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_dia_diem.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\src\\main\\res\\layout\\list_dia_diem.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\9e8f805f80c99887820e0f898b5bcee552e8715f\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\f6eaee569643e2b655e648f548ffca6a91a55f02\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\b3af5789380674e074218aae468493f676e2aaad\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dia_diem_card.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\src\\main\\res\\layout\\dia_diem_card.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\adf7c54bdd88fbb10d1510b41b2122ed70a4a36a\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_small.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\8fc33ddba6e0a041d114a74afcd99dfdb21ddce1\\output\\res\\layout\\messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\indicator_layout.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\fe338337c4fc6ac75e6e6011e910f265a4974894\\output\\res\\layout\\indicator_layout.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_thong_tin.xml",
+        "source": "E:\\DiaDiemCaoBang\\app\\src\\main\\res\\layout\\dialog_thong_tin.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\appbar.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\src\\main\\res\\layout\\appbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\adf7c54bdd88fbb10d1510b41b2122ed70a4a36a\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\adf7c54bdd88fbb10d1510b41b2122ed70a4a36a\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\adf7c54bdd88fbb10d1510b41b2122ed70a4a36a\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_goc_chup.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\src\\main\\res\\layout\\activity_goc_chup.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_animation.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\src\\main\\res\\layout\\activity_animation.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_diadiem.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\src\\main\\res\\layout\\list_diadiem.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\b3af5789380674e074218aae468493f676e2aaad\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "H:\\DiaDiemCaoBang\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\f6eaee569643e2b655e648f548ffca6a91a55f02\\output\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_round.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\97c3e83e37d8d5a0c737f68202f081117c053588\\output\\res\\layout\\messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lv_item_diadiem_detail.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\src\\main\\res\\layout\\lv_item_diadiem_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\f6eaee569643e2b655e648f548ffca6a91a55f02\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\9e8f805f80c99887820e0f898b5bcee552e8715f\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lv_header_diadiem_detail.xml",
+        "source": "E:\\DiaDiemCaoBang\\app\\src\\main\\res\\layout\\lv_header_diadiem_detail.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\b3af5789380674e074218aae468493f676e2aaad\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dia_diem.xml",
+        "source": "E:\\DiaDiemCaoBang\\app\\src\\main\\res\\layout\\activity_dia_diem.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\2a0643084bca73f028302fd6d154d0d1b40f5191\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\2a0643084bca73f028302fd6d154d0d1b40f5191\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_main.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\b3af5789380674e074218aae468493f676e2aaad\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dia_diem_detail.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\src\\main\\res\\layout\\activity_dia_diem_detail.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\adf7c54bdd88fbb10d1510b41b2122ed70a4a36a\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_small.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\8fc33ddba6e0a041d114a74afcd99dfdb21ddce1\\output\\res\\layout\\messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\edit_text.xml",
+        "source": "E:\\DiaDiemCaoBang\\app\\src\\main\\res\\layout\\edit_text.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\9e8f805f80c99887820e0f898b5bcee552e8715f\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\f6eaee569643e2b655e648f548ffca6a91a55f02\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_animation.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\src\\main\\res\\layout\\activity_animation.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_large.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\97c3e83e37d8d5a0c737f68202f081117c053588\\output\\res\\layout\\messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\addtheme.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\src\\main\\res\\layout\\addtheme.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\adf7c54bdd88fbb10d1510b41b2122ed70a4a36a\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\f6eaee569643e2b655e648f548ffca6a91a55f02\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\2a0643084bca73f028302fd6d154d0d1b40f5191\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_chi_tiet.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\src\\main\\res\\layout\\list_chi_tiet.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_small.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\643618481305ad40567a3ebb2e2664dcf84d4913\\output\\res\\layout\\messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\f6eaee569643e2b655e648f548ffca6a91a55f02\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\b3af5789380674e074218aae468493f676e2aaad\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\adf7c54bdd88fbb10d1510b41b2122ed70a4a36a\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\f6eaee569643e2b655e648f548ffca6a91a55f02\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\f6eaee569643e2b655e648f548ffca6a91a55f02\\output\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\jelly_toolbar.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\fadc818350871b74cc3a814e74e130ca20254058\\output\\res\\layout\\jelly_toolbar.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\adf7c54bdd88fbb10d1510b41b2122ed70a4a36a\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\2a0643084bca73f028302fd6d154d0d1b40f5191\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\b3af5789380674e074218aae468493f676e2aaad\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\adf7c54bdd88fbb10d1510b41b2122ed70a4a36a\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\2a0643084bca73f028302fd6d154d0d1b40f5191\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\slider_layout.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\fe338337c4fc6ac75e6e6011e910f265a4974894\\output\\res\\layout\\slider_layout.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\adf7c54bdd88fbb10d1510b41b2122ed70a4a36a\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\render_type_default.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\fe338337c4fc6ac75e6e6011e910f265a4974894\\output\\res\\layout\\render_type_default.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\9e8f805f80c99887820e0f898b5bcee552e8715f\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\appbar.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\src\\main\\res\\layout\\appbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\adf7c54bdd88fbb10d1510b41b2122ed70a4a36a\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dialog_thong_tin.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\src\\main\\res\\layout\\dialog_thong_tin.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\2a0643084bca73f028302fd6d154d0d1b40f5191\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\adf7c54bdd88fbb10d1510b41b2122ed70a4a36a\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\f6eaee569643e2b655e648f548ffca6a91a55f02\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_scrolling.xml",
+        "source": "H:\\DiaDiemCaoBang\\app\\src\\main\\res\\layout\\activity_scrolling.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\render_type_default.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\1ac963053589fda2872cddb77760b8c4bdbfb2cc\\output\\res\\layout\\render_type_default.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_scrolling.xml",
+        "source": "E:\\DiaDiemCaoBang\\app\\src\\main\\res\\layout\\activity_scrolling.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\b3af5789380674e074218aae468493f676e2aaad\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_scrolling.xml",
+        "source": "H:\\DiaDiemCaoBang\\app\\src\\main\\res\\layout\\content_scrolling.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_scrolling.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\src\\main\\res\\layout\\activity_scrolling.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\2a0643084bca73f028302fd6d154d0d1b40f5191\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dia_diem.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\src\\main\\res\\layout\\activity_dia_diem.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dia_diem_card.xml",
+        "source": "E:\\DiaDiemCaoBang\\app\\src\\main\\res\\layout\\dia_diem_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\slider_layout.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\1ac963053589fda2872cddb77760b8c4bdbfb2cc\\output\\res\\layout\\slider_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\2a0643084bca73f028302fd6d154d0d1b40f5191\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dia_diem_card.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\src\\main\\res\\layout\\dia_diem_card.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\adf7c54bdd88fbb10d1510b41b2122ed70a4a36a\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\jelly_toolbar.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\65be51872da46ee9614f06df8d9b5d6dcebdfd5f\\output\\res\\layout\\jelly_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_scrolling.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\src\\main\\res\\layout\\content_scrolling.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\DiaDiemCaoBang\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_diadiem.xml",
+        "source": "H:\\DiaDiemCaoBang\\app\\src\\main\\res\\layout\\list_diadiem.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\b3af5789380674e074218aae468493f676e2aaad\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\indicator_layout.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\1ac963053589fda2872cddb77760b8c4bdbfb2cc\\output\\res\\layout\\indicator_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_chi_tiet.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\src\\main\\res\\layout\\list_chi_tiet.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_tooltip_bubble.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\643618481305ad40567a3ebb2e2664dcf84d4913\\output\\res\\layout\\com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dia_diem.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\src\\main\\res\\layout\\activity_dia_diem.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\edit_text.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\src\\main\\res\\layout\\edit_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\2a0643084bca73f028302fd6d154d0d1b40f5191\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\f6eaee569643e2b655e648f548ffca6a91a55f02\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar_include.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\2a0643084bca73f028302fd6d154d0d1b40f5191\\output\\res\\layout\\design_layout_snackbar_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lv_header_diadiem_detail.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\src\\main\\res\\layout\\lv_header_diadiem_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dia_diem_detail.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\src\\main\\res\\layout\\activity_dia_diem_detail.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\adf7c54bdd88fbb10d1510b41b2122ed70a4a36a\\output\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_login_fragment.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\8fc33ddba6e0a041d114a74afcd99dfdb21ddce1\\output\\res\\layout\\com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_activity_layout.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\8fc33ddba6e0a041d114a74afcd99dfdb21ddce1\\output\\res\\layout\\com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_chi_tiet.xml",
+        "source": "E:\\DiaDiemCaoBang\\app\\src\\main\\res\\layout\\list_chi_tiet.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_text_input_password_icon.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\2a0643084bca73f028302fd6d154d0d1b40f5191\\output\\res\\layout\\design_text_input_password_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_small.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\8fc33ddba6e0a041d114a74afcd99dfdb21ddce1\\output\\res\\layout\\messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_sheet_dialog.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\b3af5789380674e074218aae468493f676e2aaad\\output\\res\\layout\\design_bottom_sheet_dialog.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\notification_action.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\render_type_default.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\1ac963053589fda2872cddb77760b8c4bdbfb2cc\\output\\res\\layout\\render_type_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_tooltip_bubble.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\8fc33ddba6e0a041d114a74afcd99dfdb21ddce1\\output\\res\\layout\\com_facebook_tooltip_bubble.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_large.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\643618481305ad40567a3ebb2e2664dcf84d4913\\output\\res\\layout\\messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\f6eaee569643e2b655e648f548ffca6a91a55f02\\output\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\appbar.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\src\\main\\res\\layout\\appbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_large.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\8fc33ddba6e0a041d114a74afcd99dfdb21ddce1\\output\\res\\layout\\messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\render_type_text.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\1ac963053589fda2872cddb77760b8c4bdbfb2cc\\output\\res\\layout\\render_type_text.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_separator.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\b3af5789380674e074218aae468493f676e2aaad\\output\\res\\layout\\design_navigation_item_separator.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_goc_chup.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\src\\main\\res\\layout\\activity_goc_chup.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\adf7c54bdd88fbb10d1510b41b2122ed70a4a36a\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\src\\main\\res\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\adf7c54bdd88fbb10d1510b41b2122ed70a4a36a\\output\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_login_fragment.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\643618481305ad40567a3ebb2e2664dcf84d4913\\output\\res\\layout\\com_facebook_login_fragment.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\indicator_layout.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\7df4d98adffad84323f969eb3d3f220d01f509be\\output\\res\\layout\\indicator_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\2a0643084bca73f028302fd6d154d0d1b40f5191\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\render_type_text.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\7df4d98adffad84323f969eb3d3f220d01f509be\\output\\res\\layout\\render_type_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_dia_diem.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\src\\main\\res\\layout\\list_dia_diem.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_round.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\8fc33ddba6e0a041d114a74afcd99dfdb21ddce1\\output\\res\\layout\\messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu_item.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\2a0643084bca73f028302fd6d154d0d1b40f5191\\output\\res\\layout\\design_navigation_menu_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\f6eaee569643e2b655e648f548ffca6a91a55f02\\output\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\addtheme.xml",
+        "source": "E:\\DiaDiemCaoBang\\app\\src\\main\\res\\layout\\addtheme.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_large.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\8fc33ddba6e0a041d114a74afcd99dfdb21ddce1\\output\\res\\layout\\messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\edit_text.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\src\\main\\res\\layout\\edit_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\f6eaee569643e2b655e648f548ffca6a91a55f02\\output\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\f6eaee569643e2b655e648f548ffca6a91a55f02\\output\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\f6eaee569643e2b655e648f548ffca6a91a55f02\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\dia_diem_card.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\src\\main\\res\\layout\\dia_diem_card.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_diadiem.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\src\\main\\res\\layout\\list_diadiem.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\f6eaee569643e2b655e648f548ffca6a91a55f02\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_flash_screen.xml",
+        "source": "H:\\DiaDiemCaoBang\\app\\src\\main\\res\\layout\\activity_flash_screen.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\f6eaee569643e2b655e648f548ffca6a91a55f02\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_content.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\65be51872da46ee9614f06df8d9b5d6dcebdfd5f\\output\\res\\layout\\layout_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_round.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\8fc33ddba6e0a041d114a74afcd99dfdb21ddce1\\output\\res\\layout\\messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\adf7c54bdd88fbb10d1510b41b2122ed70a4a36a\\output\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\2a0643084bca73f028302fd6d154d0d1b40f5191\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\list_diadiem.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\src\\main\\res\\layout\\list_diadiem.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\f6eaee569643e2b655e648f548ffca6a91a55f02\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_flash_screen.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\src\\main\\res\\layout\\activity_flash_screen.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\9e8f805f80c99887820e0f898b5bcee552e8715f\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\f6eaee569643e2b655e648f548ffca6a91a55f02\\output\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lv_header_diadiem_detail.xml",
+        "source": "H:\\DiaDiemCaoBang\\app\\src\\main\\res\\layout\\lv_header_diadiem_detail.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_bottom_navigation_item.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\2a0643084bca73f028302fd6d154d0d1b40f5191\\output\\res\\layout\\design_bottom_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\indicator_layout.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\1ac963053589fda2872cddb77760b8c4bdbfb2cc\\output\\res\\layout\\indicator_layout.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header.xml",
+        "source": "H:\\DiaDiemCaoBang\\app\\src\\main\\res\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_header.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\9e8f805f80c99887820e0f898b5bcee552e8715f\\output\\res\\layout\\design_navigation_item_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_menu_item_action_area.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\2a0643084bca73f028302fd6d154d0d1b40f5191\\output\\res\\layout\\design_menu_item_action_area.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_large.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\8fc33ddba6e0a041d114a74afcd99dfdb21ddce1\\output\\res\\layout\\messenger_button_send_blue_large.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\adf7c54bdd88fbb10d1510b41b2122ed70a4a36a\\output\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_round.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\8fc33ddba6e0a041d114a74afcd99dfdb21ddce1\\output\\res\\layout\\messenger_button_send_blue_round.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lv_item_diadiem_detail.xml",
+        "source": "H:\\DiaDiemCaoBang\\app\\src\\main\\res\\layout\\lv_item_diadiem_detail.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\jelly_toolbar.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\49080d00b669dd81c5f7bfc74b7ccefe14d25dfc\\output\\res\\layout\\jelly_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\2a0643084bca73f028302fd6d154d0d1b40f5191\\output\\res\\layout\\design_navigation_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_content.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\65be51872da46ee9614f06df8d9b5d6dcebdfd5f\\output\\res\\layout\\layout_content.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\slider_layout.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\1ac963053589fda2872cddb77760b8c4bdbfb2cc\\output\\res\\layout\\slider_layout.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_small.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\97c3e83e37d8d5a0c737f68202f081117c053588\\output\\res\\layout\\messenger_button_send_white_small.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines_media.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\notification_template_lines_media.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\f6eaee569643e2b655e648f548ffca6a91a55f02\\output\\res\\layout\\abc_popup_menu_header_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_menu.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\9e8f805f80c99887820e0f898b5bcee552e8715f\\output\\res\\layout\\design_navigation_menu.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_main.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_text.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\9e8f805f80c99887820e0f898b5bcee552e8715f\\output\\res\\layout\\design_layout_tab_text.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\f6eaee569643e2b655e648f548ffca6a91a55f02\\output\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_icon_group.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\adf7c54bdd88fbb10d1510b41b2122ed70a4a36a\\output\\res\\layout\\notification_template_icon_group.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_blue_small.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\97c3e83e37d8d5a0c737f68202f081117c053588\\output\\res\\layout\\messenger_button_send_blue_small.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\render_type_text.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\fe338337c4fc6ac75e6e6011e910f265a4974894\\output\\res\\layout\\render_type_text.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\src\\main\\res\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_round.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\643618481305ad40567a3ebb2e2664dcf84d4913\\output\\res\\layout\\messenger_button_send_white_round.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\f6eaee569643e2b655e648f548ffca6a91a55f02\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_scrolling.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\src\\main\\res\\layout\\activity_scrolling.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\render_type_default.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\1ac963053589fda2872cddb77760b8c4bdbfb2cc\\output\\res\\layout\\render_type_default.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\jelly_toolbar.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\65be51872da46ee9614f06df8d9b5d6dcebdfd5f\\output\\res\\layout\\jelly_toolbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_title_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_alert_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_goc_chup.xml",
+        "source": "E:\\DiaDiemCaoBang\\app\\src\\main\\res\\layout\\activity_goc_chup.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_snackbar.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\2a0643084bca73f028302fd6d154d0d1b40f5191\\output\\res\\layout\\design_layout_snackbar.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_dia_diem.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\src\\main\\res\\layout\\activity_dia_diem.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_large.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\8fc33ddba6e0a041d114a74afcd99dfdb21ddce1\\output\\res\\layout\\messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\nav_header.xml",
+        "source": "E:\\DiaDiemCaoBang\\app\\src\\main\\res\\layout\\nav_header.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_scrolling.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\src\\main\\res\\layout\\content_scrolling.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_layout_tab_icon.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\2a0643084bca73f028302fd6d154d0d1b40f5191\\output\\res\\layout\\design_layout_tab_icon.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\messenger_button_send_white_large.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\8fc33ddba6e0a041d114a74afcd99dfdb21ddce1\\output\\res\\layout\\messenger_button_send_white_large.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\lv_item_diadiem_detail.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\src\\main\\res\\layout\\lv_item_diadiem_detail.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\adf7c54bdd88fbb10d1510b41b2122ed70a4a36a\\output\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\content_main.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\src\\main\\res\\layout\\content_main.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_action_tombstone.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\f6eaee569643e2b655e648f548ffca6a91a55f02\\output\\res\\layout\\notification_action_tombstone.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\f6eaee569643e2b655e648f548ffca6a91a55f02\\output\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\com_facebook_activity_layout.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\8fc33ddba6e0a041d114a74afcd99dfdb21ddce1\\output\\res\\layout\\com_facebook_activity_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\design_navigation_item_subheader.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\2a0643084bca73f028302fd6d154d0d1b40f5191\\output\\res\\layout\\design_navigation_item_subheader.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\f6eaee569643e2b655e648f548ffca6a91a55f02\\output\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\DiaDiemCaoBang - Copy\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media_custom.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\55bc93639bc31ec2016da3549826f958028a4dc5\\output\\res\\layout\\notification_template_media_custom.xml"
+    },
+    {
+        "merged": "E:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\MyPC\\.android\\build-cache\\f6eaee569643e2b655e648f548ffca6a91a55f02\\output\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_home.xml",
+        "source": "H:\\DiaDiemCaoBang\\app\\src\\main\\res\\layout\\activity_home.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\adf7c54bdd88fbb10d1510b41b2122ed70a4a36a\\output\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_scrolling.xml",
+        "source": "C:\\Users\\ASUS\\AndroidStudioProjects\\amthuc\\app\\src\\main\\res\\layout\\activity_scrolling.xml"
+    },
+    {
+        "merged": "H:\\DiaDiemCaoBang\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\ASUS\\.android\\build-cache\\adf7c54bdd88fbb10d1510b41b2122ed70a4a36a\\output\\res\\layout\\notification_template_media.xml"
+    }
+]

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.design.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/main_content"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/background_home_below"
+    android:fitsSystemWindows="false"
+    tools:context="net.pmsv.diadiemcaobang.HomeActivity">
+
+    <android.support.design.widget.AppBarLayout
+        android:id="@+id/appbar"
+        android:layout_width="match_parent"
+        android:layout_height="@dimen/detail_backdrop_height"
+        android:fitsSystemWindows="true"
+        android:theme="@style/ThemeOverlay.AppCompat.Dark.ActionBar">
+
+        <android.support.design.widget.CollapsingToolbarLayout
+            android:id="@+id/collapsing_toolbar"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:fitsSystemWindows="true"
+            app:contentScrim="?attr/colorPrimary"
+            app:expandedTitleMarginEnd="64dp"
+            app:expandedTitleMarginStart="48dp"
+            app:expandedTitleTextAppearance="@android:color/transparent"
+            app:layout_scrollFlags="scroll|exitUntilCollapsed">
+
+            <RelativeLayout
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <ImageView
+                    android:id="@+id/backdrop"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:fitsSystemWindows="true"
+                    android:scaleType="centerCrop"
+                    app:layout_collapseMode="parallax" />
+
+                <LinearLayout
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:gravity="center_horizontal"
+                    android:orientation="vertical"
+                    android:layout_centerVertical="true"
+                    android:layout_centerHorizontal="true">
+
+                    <TextView
+                        android:id="@+id/title"
+                        android:background="@drawable/title"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text=""
+                        android:textAlignment="center"
+                        android:textColor="@android:color/background_dark"
+                        android:textSize="@dimen/backdrop_title"
+                        android:textStyle="bold" />
+
+                    <TextView
+                        android:id="@+id/textViewbackdrop"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="@string/backdrop_subtitle"
+                        android:textColor="#000"
+                        android:textSize="@dimen/backdrop_subtitle" />
+
+                </LinearLayout>
+            </RelativeLayout>
+
+            <!--<MultiAutoCompleteTextView-->
+            <!--android:id="@+id/multiAutoCompleteTextView1"-->
+            <!--android:layout_width="match_parent"-->
+            <!--android:layout_height="wrap_content"-->
+            <!--android:completionThreshold="1"-->
+            <!--android:ems="10"-->
+            <!--android:text="asd"-->
+            <!--android:textColor="#000"/>-->
+
+            <android.support.v7.widget.Toolbar
+                android:id="@+id/toolbar1"
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                app:layout_collapseMode="pin"
+                app:popupTheme="@style/ThemeOverlay.AppCompat.Light"
+                app:contentInsetLeft="0dp"
+                app:contentInsetStart="0dp"
+                android:paddingLeft="0dp">
+                <com.yalantis.jellytoolbar.widget.JellyToolbar
+                    android:id="@+id/toolbar"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:background="@color/colorBackgroundToolBar"
+                    android:paddingLeft="@dimen/activity_horizontal_margin_of_jelly_toolbar"
+                    android:paddingStart="@dimen/activity_horizontal_margin_of_jelly_toolbar"
+                    app:cancelIcon="@drawable/ic_close"
+                    app:endColor="@color/colorEnd"
+                    app:icon="@drawable/ic_search"
+                    app:startColor="@color/colorStart"
+                    app:title="@string/str_news_feed"
+                    app:titleTextColor="@android:color/white"
+                    app:layout_scrollFlags="scroll|enterAlways|snap" />
+            </android.support.v7.widget.Toolbar>
+
+
+        </android.support.design.widget.CollapsingToolbarLayout>
+    </android.support.design.widget.AppBarLayout>
+
+</android.support.design.widget.CoordinatorLayout>

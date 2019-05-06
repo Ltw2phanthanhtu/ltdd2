@@ -1,0 +1,36 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/iHome"
+            android:icon="@drawable/icon_home"
+            android:title="Home" />
+        <item
+            android:id="@+id/iFavorited"
+            android:icon="@drawable/icon_favorited"
+            android:title="Favorited" />
+        <item
+            android:id="@+id/iEvent"
+            android:icon="@drawable/icon_event"
+            android:title="Event" />
+
+        <item android:title="Orther">
+            <menu>
+                <group android:checkableBehavior="single">
+                    <item
+                        android:id="@+id/iShare"
+                        android:icon="@drawable/icon_share"
+                        android:title="Share App" />
+                    <item
+                        android:id="@+id/iAboutUs"
+                        android:icon="@drawable/icon_about"
+                        android:title="About Us" />
+                    <item
+                        android:id="@+id/iLogOut"
+                        android:icon="@drawable/icon_logout"
+                        android:title="Logout" />
+                </group>
+            </menu>
+        </item>
+    </group>
+</menu>

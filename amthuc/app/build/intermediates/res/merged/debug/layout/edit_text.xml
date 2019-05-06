@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<AutoCompleteTextView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/txtSearchInMain"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/colorTransparent1"
+    android:lines="1"
+    android:maxLines="1"
+    android:singleLine="true"
+    android:textColor="#ffffff"
+    android:completionThreshold="1" >
+</AutoCompleteTextView>
+
+
+
